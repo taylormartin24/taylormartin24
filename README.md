@@ -2,6 +2,6 @@
 I am currently taking an IT course on Coursecareers.
 
 ### My Projects
-- 1
+- [osTicket: A Help Desk Ticket System](https://github.com/taylormartin24/osTicket-Lab-wip)
 - 2
 - 3
