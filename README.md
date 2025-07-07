@@ -3,5 +3,5 @@ I am currently taking an IT course on Coursecareers.
 
 ### My Projects
 - [osTicket: A Help Desk Ticket System](https://github.com/taylormartin24/osTicket-Lab-wip)
-- 2
-- 3
+- [Active Directory](https://github.com/taylormartin24/Active-Directory-Lab-wip)
+- [Network File Shares And Permissions](https://github.com/taylormartin24/Network-File-Shares-and-Permission-Lab-wip)
