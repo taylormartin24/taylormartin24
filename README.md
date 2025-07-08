@@ -1,4 +1,4 @@
-## Hello👋, my name is Taylor Martin, and I'm an aspiring IT Professional💻.
+## Hello👋, I'm Taylor Martin, an aspiring IT Professional💻.
 I am currently taking an IT course on Coursecareers.
 
 ### My Information Technology Projects:
