@@ -1,5 +1,5 @@
 ## Hello👋, I'm Taylor Martin, an aspiring IT Professional💻.
-I am currently taking an IT course on [Coursecareers](https://coursecareers.com/a/taylormartin24?course=it).
+I am currently taking an IT course on [Coursecareers](https://coursecareers.com/a/taylormartin24?course=it&campaign=github1).
 
 ### My Information Technology Projects:
 - [osTicket: A Help Desk Ticket System](https://github.com/taylormartin24/osTicket-Lab-wip)
