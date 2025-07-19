@@ -3,6 +3,6 @@ I am currently taking an IT course on [Coursecareers](https://coursecareers.com/
 
 ### My Information Technology Projects:
 - [osTicket: A Help Desk Ticket System](https://github.com/taylormartin24/osTicket-Lab)
-- [Active Directory](https://github.com/taylormartin24/Active-Directory-Lab-wip)
-- [Network File Shares And Permissions](https://github.com/taylormartin24/Network-File-Shares-and-Permission-Lab-wip)
+- [Active Directory](https://github.com/taylormartin24/Active-Directory-Lab)
+- [Network File Shares And Permissions](https://github.com/taylormartin24/Network-File-Shares-and-Permission-Lab)
 - [Wireshark: Analyzing Network Traffic](https://github.com/taylormartin24/Analyzing-Network-Traffic)
