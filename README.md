@@ -5,4 +5,4 @@ I am currently taking an IT course on [Coursecareers](https://coursecareers.com/
 - [osTicket: A Help Desk Ticket System](https://github.com/taylormartin24/osTicket-Lab)
 - [Active Directory](https://github.com/taylormartin24/Active-Directory-Lab)
 - [Network File Shares And Permissions](https://github.com/taylormartin24/Network-File-Shares-and-Permission-Lab)
-- [Wireshark: Analyzing Network Traffic](https://github.com/taylormartin24/Analyzing-Network-Traffic)
+- [Analyzing Network Traffic with Wireshark](https://github.com/taylormartin24/Analyzing-Network-Traffic)
